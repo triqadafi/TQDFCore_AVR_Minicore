@@ -1,11 +1,1 @@
-{
-  "type": "tool", 
-  "name": "framework-trqdfcore-avr-minicore", 
-  "version": "1.0.0", "spec": {
-    "owner": "platformio", 
-    "id": null, 
-    "name": "framework-trqdfcore-avr-minicore", 
-    "requirements": null, 
-    "url": null
-  }
-}
+{"type": "tool", "name": "framework-tqdfcore-avr-minicore", "version": "1.0.0+sha.7cb54c6", "spec": {"owner": "platformio", "id": null, "name": "framework-tqdfcore-avr-minicore", "requirements": null, "uri": "git+https://github.com/triqadafi/TQDFCore_AVR_Minicore.git#v1.0.0-release"}}
